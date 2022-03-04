@@ -1,0 +1,17 @@
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\bin\Debug\net6.0-windows\CS_CodePresenter.exe
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\bin\Debug\net6.0-windows\CS_CodePresenter.deps.json
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\bin\Debug\net6.0-windows\CS_CodePresenter.runtimeconfig.json
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\bin\Debug\net6.0-windows\CS_CodePresenter.dll
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\bin\Debug\net6.0-windows\ref\CS_CodePresenter.dll
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\bin\Debug\net6.0-windows\CS_CodePresenter.pdb
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.csproj.AssemblyReference.cache
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.Form1.resources
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.csproj.GenerateResource.cache
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.AssemblyInfoInputs.cache
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.AssemblyInfo.cs
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.csproj.CoreCompileInputs.cache
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.dll
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\ref\CS_CodePresenter.dll
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.pdb
+C:\Users\alexc\OneDrive\Documents\Programming\CS_CodePresenter\CS_CodePresenter\obj\Debug\net6.0-windows\CS_CodePresenter.genruntimeconfig.cache
